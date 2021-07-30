@@ -1,0 +1,273 @@
+
+ 
+ 
+ 
+ *{
+     margin: 0;
+     padding: 0;
+ }
+ 
+ a{
+     text-decoration: none;
+ }
+
+
+   /* Header
+-------------------*/
+.header{width: 100%;
+    display: flex;
+   background:#E3EEF8;
+   width: 1920px;
+ }
+   
+.header__logo{
+    font-family: 'Rubik', sans-serif;
+    color: #1F1F1F;
+    font-size: 25px;
+    margin-top: 43px;
+    margin-left: 400px;
+    
+
+}
+  /* nav-
+  ----------*/
+  nav{
+      margin-top: 50px;
+      margin-left: 60px;
+  }
+
+  .navtop a{
+    margin-left: 25px;
+    color: #1F1F1F;
+    font-family: 'Karla', sans-serif;
+    font-size:16px ;   
+  }
+  
+   /*button--
+   --------------*/ 
+   .button{
+       display: flex;
+       margin-top: 39px;
+       margin-left:463px ;
+       font-size: 16px;
+       font-family: 'Karla', sans-serif;
+       align-items: center;
+       justify-content: center;
+       color:#258AFF;
+       width: 137px; 
+       height: 40px ;
+       border: 2px solid #258AFF;
+       border-radius: 3px;
+   }
+
+   /*main*/
+   main{
+      
+       width: 1920px;    
+       }
+
+   .main__text{
+       
+       background:#e3eef8 ;
+       text-align: center;
+   }
+
+
+   .main__text h1{
+       color:#666666;
+       font-size: 15px;
+       font-family: 'Karla', sans-serif;
+       padding: 257px 855px 0 840px;
+   }
+
+
+   .main__text h2{
+    padding: 29px 653px 19px 653px;
+       color: #1F1F1F;
+       font-family: 'Karla', sans-serif;
+       font-size: 70px;
+   }
+
+
+    .main__text p{
+       color:#666666;
+       font-size: 21px;
+       font-family: 'Karla', sans-serif;
+       padding: 19px 682px 31px 683px;
+    }
+
+/*forma*/
+
+   .form1{
+       height: 60px;
+       padding: 0 0 159px 0;
+      
+
+    }
+input[type="text"]
+{width: 275px;
+    height: 60px;
+    border: none;
+    border-radius: 3px;
+   font-size: 18px;
+   font-family: 'Karla', sans-serif;
+   padding-left: 24px;
+   color: #878B90;
+   
+}
+input[type="submit"]
+{
+    width: 209px;
+    height: 60px;
+    background: #FC593B;
+    font-family: 'Karla', sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+    border: none;
+    border-radius: 3px;
+
+}
+.text{
+    padding-top: 24px;
+    padding-bottom: 159px;
+    font-size: 17px;
+    font-family: 'Karla', sans-serif;
+}
+
+
+ /* team__cards*/
+ .team__cards{
+    background: #E3EEF8;
+    width: 1920px;
+    height: 97px;
+    display: flex;
+ 
+ 
+    
+ }
+ .icon
+ {
+   float: left;
+   padding-left: 405px;
+    
+ }
+ .position{
+     font-size: 21px;
+     font-family: 'Karla', sans-serif;
+     color: #000000;
+     padding-left: 465px ;
+    
+
+ }
+ .about__position{
+    font-family: 'Karla', sans-serif;
+    font-size: 17px;
+     padding:0px 0px 0px 464px;
+     color:#666666;
+     width: 268px;
+     height: 56px;
+
+   
+   
+ }
+ .icon1
+ {padding-left: 41px;
+   float: left;
+   
+    
+ }
+ .position1{
+     
+     font-size: 21px;
+     font-family: 'Karla', sans-serif;
+     color: #000000;
+     padding-left: 100px;
+
+ }
+ .about__position1{
+    font-family: 'Karla', sans-serif;
+    font-size: 17px;
+     padding-left:100px;
+     width: 278px;
+     height: 56px;
+   
+ }
+ .icon2
+ {   padding-left: 42px;
+     float: left;
+  
+    
+ }
+ .position2{
+     
+     font-size: 21px;
+     font-family: 'Karla', sans-serif;
+     color: #000000;
+     padding-left: 100px;
+
+ }
+ .about__position2{
+    font-family: 'Karla', sans-serif;
+    font-size: 17px;
+     padding-left: 58px;
+     width: 278px;
+     height: 56px;
+     padding-left: 100px;   
+    }
+
+    /*wrapper*/
+    .wrapper{
+        background-color:#258AFF;
+        width: 100%;
+       
+        
+        
+       
+       
+    }
+    main .main__about{
+        display: flex;
+        padding: 136px 0px 126px 360px;
+    }
+    .about__right{
+        margin-left: 165px;
+     
+        
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+       
+   
+  
+  
+    
+      
+    
+      
+
+
+
+
+
